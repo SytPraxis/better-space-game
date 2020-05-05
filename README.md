@@ -3,6 +3,6 @@ Basically the better space game...
 
 
 # flying objects
-![img](./sketches/sketch1.jpeg)
+![img](https://raw.githubusercontent.com/SytPraxis/better-space-game/master/sketches/sketch.jpeg)
 
 
