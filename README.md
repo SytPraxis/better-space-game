@@ -1,6 +1,7 @@
 # better space game
 Basically the better space game...
 
-## work in progress.
+# flying objects
+![img](./skteches/sketch1.png)
 
 
