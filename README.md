@@ -2,6 +2,6 @@
 Basically the better space game...
 
 # flying objects
-![img](./skteches/sketch1.jpeg)
+![img](./sketches/sketch1.jpeg)
 
 
